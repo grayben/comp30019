@@ -13,12 +13,26 @@ Aerodynamics, gravity
 Educational
 Can be immune system or bacteria/virus
 Protect or attack the body
+Like spore
+Perhaps a little freeform - can attack major organs, perhaps see effects?
 
 3. Shuttle launcher | Jun
 Try to launch a shuttle into orbit and land it on the moon
 
-4. Planet decay
+4. Planet decay | Renlord
 Try to sling asteroids at other planets to destabilise their orbits
+DEstroy their star
+Singularity
+Rewards: 
+
+5. Educational universe physics engine | Jun
+Can explode stars, implode stars, crash planets
+
+Criteria
+Gestures
+Metro platform
+Marketable according to microsoft
+
 
 
 
