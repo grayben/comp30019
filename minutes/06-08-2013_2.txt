@@ -1,0 +1,8 @@
+Location: DMD 503
+Time copmmenced: 1530
+
+Action points:
+IOnvestigate open physics engines | JUN
+Search for models |
+Search for texture packs |
+Investigate licensing issues | BEN
